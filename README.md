@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **erickawaguchi/erickawaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Eric Kawaguchi and I am a postdoctoral resarch fellow with <a href="https://biostatsepi.usc.edu/" target="_blank"> USC's Biostatistics and Epidemiology division.</a> I received both my PhD and MS in biostatistics from <a href="https://biostat.ucla.edu" target="_blank">UCLA</a> and my BS in mathematics from the <a href="https://www.cpp.edu/~math" target="_blank">California State Polytechnic University, Pomona.</a>
+
+This is my personal GitHub repository that hosts both my academic (and non academic) work! 
